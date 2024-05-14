@@ -29,7 +29,7 @@ RPA bots untuk mengautomasi proses pembuatan dokumen employee agreement. Bot aka
 
 RPA bots untuk mengautomasi proses penginputan data pada aplikasi ESPT (aplikasi perpajakan). Bot akan mengambil data dari excel menggunakan **excel activities**. Untuk semua proses pada aplikasi ESPT menggunakan berbagai activities dari **UI Automation Activities** seperti **click, check, type, get** dan lain sebagainya.
 
-## SEO Ranking Bot
+### SEO Ranking Bot
 
 **Developed using UiPath** 
 
