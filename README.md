@@ -14,7 +14,7 @@ S1 Teknik Telekomunikasi | GPA 3.41 / 4.00 | August 2018 - September 2022
 ### Robot dokumen kandidat
 Robot untuk mengautomasi beberapa dokumen kandidat seperti CV, candidate overview, 
 dan offering letter. Data terkait kandidat diambil dari excel ataupun spreadsheet.
-Untuk pengambilan data pada excel menggunakan activities **excel** dan data **table**, 
+Untuk pengambilan data pada excel menggunakan activities **excel** dan **data table**, 
 sedangkan untuk spreadsheet menggunakan berbagai **sheet activities** dari **google workspace**.
 untuk proses 
 
