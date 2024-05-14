@@ -21,4 +21,6 @@ Untuk pengambilan data pada excel menggunakan activities **excel** dan **data ta
 sedangkan untuk spreadsheet menggunakan berbagai **sheet activities** dari **google workspace**.
 untuk proses 
 
+RPA bots to automate several candidate document such as CV, candidate, overview, 
+and offering letter. 
 
