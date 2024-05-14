@@ -21,7 +21,7 @@ RPA bots untuk mengautomasi proses pembuatan beberapa dokumen kandidat seperti C
 
 **Developed using UiPath** 
 
-RPA bots untuk mengautomasi proses pembuatan dokumen employee agreement. Bot akan membaca dan mengambil KTP kandidat dari email menggunakan beberapa activities dari **email activities**. Data pada KTP akan diextract menggunakan **OCR** yang tersedia pada UiPath. Hasil data extraction akan disimpan ke dalam excel menggunakan **excel activities** kemudian digunakan untuk membuat dokumen employee agreement pada word menggunakan *word activities**. Dokumen employee agreement kemudian akan dikirim kembali kepada kandidat menggunakan **email activities**.
+RPA bots untuk mengautomasi proses pembuatan dokumen employee agreement. Bot akan membaca dan mengambil KTP kandidat dari email menggunakan beberapa activities dari **email activities**. Data pada KTP akan diextract menggunakan **OCR** yang tersedia pada UiPath. Hasil data extraction akan disimpan ke dalam excel menggunakan **excel activities** kemudian digunakan untuk membuat dokumen employee agreement pada word menggunakan **word activities**. Dokumen employee agreement kemudian akan dikirim kembali kepada kandidat menggunakan **email activities**.
 
 ### ESPT Bot
 
