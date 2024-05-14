@@ -32,6 +32,7 @@ RPA bots untuk mengautomasi proses penginputan data pada aplikasi ESPT (aplikasi
 ## SEO Ranking Bot
 
 **Developed using UiPath** 
+
 RPA bots untuk mengautomasi proses perhitungan ranking dari setiap artikel yang dimiliki oleh perusahaan. Untuk membuka mesin pencarian, bot menggunakan activities **open browser** dari **UI Automation Activities**. Untuk proses searching pada google menggunakan berbagai activities dari **UI Automation Activities** seperti **type** dan **click**. Bot kemudian akan menghitung ranking dari artikel tersebut menggunakan **loop**.
 
 
