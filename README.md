@@ -11,16 +11,28 @@ Bachelor of Telecommunication Engineering | GPA 3.41 / 4.00 | August 2018 - Sept
 
 
 ## RPA Projects
-### Robot dokumen kandidat
+### Candidate Document Bots
 
-**Dibangun menggunakan UiPath**
+**Developed using UiPath** 
 
-Robot untuk mengautomasi beberapa dokumen kandidat seperti CV, candidate overview, 
-dan offering letter. Data terkait kandidat diambil dari excel ataupun spreadsheet.
-Untuk pengambilan data pada excel menggunakan activities **excel** dan **data table**, 
-sedangkan untuk spreadsheet menggunakan berbagai **sheet activities** dari **google workspace**.
-untuk proses 
+RPA bots untuk mengautomasi proses pembuatan beberapa dokumen kandidat seperti CV, candidate overview, dan offering letter. Bot akan mengambil data kandidat dari excel menggunakan **excel activities** ataupun dari spreadsheet menggunakan **google workspace**. Data kandidat kemudian akan diinput ke dalam template word document kemudian disimpan pada local komputer menggunakan berbagai activities dari **word activities**. Dokumen kemudian akan dikirim melalui email menggunakan **email activities**.
 
-RPA bots to automate several candidate document such as CV, candidate, overview, 
-and offering letter. 
+### Employee Agreement Bot
+
+**Developed using UiPath** 
+
+RPA bots untuk mengautomasi proses pembuatan dokumen employee agreement. Bot akan membaca dan mengambil KTP kandidat dari email menggunakan beberapa activities dari **email activities**. Data pada KTP akan diextract menggunakan **OCR** yang tersedia pada UiPath. Hasil data extraction akan disimpan ke dalam excel menggunakan **excel activities** kemudian digunakan untuk membuat dokumen employee agreement pada word menggunakan *word activities**. Dokumen employee agreement kemudian akan dikirim kembali kepada kandidat menggunakan **email activities**.
+
+### ESPT Bot
+
+**Developed using UiPath** 
+
+RPA bots untuk mengautomasi proses penginputan data pada aplikasi ESPT (aplikasi perpajakan). Bot akan mengambil data dari excel menggunakan **excel activities**. Untuk semua proses pada aplikasi ESPT menggunakan berbagai activities dari **UI Automation Activities** seperti **click, check, type, get** dan lain sebagainya.
+
+## SEO Ranking Bot
+
+**Developed using UiPath** 
+RPA bots untuk mengautomasi proses perhitungan ranking dari setiap artikel yang dimiliki oleh perusahaan. Untuk membuka mesin pencarian, bot menggunakan activities **open browser** dari **UI Automation Activities**. Untuk proses searching pada google menggunakan berbagai activities dari **UI Automation Activities** seperti **type** dan **click**. Bot kemudian akan menghitung ranking dari artikel tersebut menggunakan **loop**.
+
+
 
