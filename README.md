@@ -15,7 +15,7 @@ Bachelor of Telecommunication Engineering | GPA 3.41 / 4.00 | August 2018 - Sept
 
 ### Candidate Document Bots
 
-![Alt Candidate Document Bots](/assets/img/Candidate Document Bots Flow.jpg)
+![Candidate Document Bots](https://github.com/bellarompon/portfolio-bellatrix/assets/img/Candidate Document Bots Flow.jpg?raw=true)
 
 **Developed using UiPath** 
 
