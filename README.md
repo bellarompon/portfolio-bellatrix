@@ -19,7 +19,7 @@ Bachelor of Telecommunication Engineering | GPA 3.41 / 4.00 | August 2018 - Sept
 
 RPA bots untuk mengautomasi proses pembuatan beberapa dokumen kandidat seperti CV, candidate overview, dan offering letter. Bot akan mengambil data kandidat dari excel menggunakan **excel activities** ataupun dari spreadsheet menggunakan **google workspace**. Data kandidat kemudian akan diinput ke dalam template word document kemudian disimpan pada local komputer menggunakan berbagai activities dari **word activities**. Dokumen kemudian akan dikirim melalui email menggunakan **email activities**.
 
-
+<br>
 
 ### Employee Agreement Bot
 
