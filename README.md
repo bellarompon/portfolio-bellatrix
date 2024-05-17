@@ -76,7 +76,7 @@ RPA bot to automate the job filtering process on the job site using **RPA** and 
 
 ### e-Statement Bot
 
-[image]
+![Statement Bot](/assets/img/Statement_Bot_Flow.jpg)
 
 **Developed using Automation Anywhere (AA360)**
 
@@ -86,7 +86,7 @@ RPA Bot to automate the data comparison process on e-Statements and core banking
 
 ### SKN RTGS Bot
 
-[image]
+![SKN RTGS Bot](/assets/img/RTGS_Bot_Flow.jpg)
 
 **Developed using Automation Anywhere (AA360)**
 
