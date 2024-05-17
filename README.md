@@ -10,11 +10,11 @@ Bachelor of Telecommunication Engineering | GPA 3.41 / 4.00 | August 2018 - Sept
 ## Work Experience
 
 
-### RPA Developer (Dec 2022 - Jan 2024)
+**RPA Developer (Dec 2022 - Jan 2024)**
 PT. Bumi Amartha Teknologi Mandiri (Outsource at CIMB Niaga)
 
-### RPA Developer Intern (Jan 2022 - Nov 2024)
-**PT. IDStar Cipta Teknologi**
+**RPA Developer Intern (Jan 2022 - Nov 2024)**
+PT. IDStar Cipta Teknologi
 
 ## RPA Projects
 
