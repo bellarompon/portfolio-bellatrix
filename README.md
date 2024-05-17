@@ -55,7 +55,7 @@ RPA bots to automate the process of calculating the ranking of each article from
 
 ### Policy Cancellation Bot
 
-[image]
+![Policy Cancellation Bot](/assets/img/Policy_Cancellation_Bot_Flow.jpg)
 
 **Developed using UiPath** 
 RPA bots to automate the process for canceling customer policies at an insurance company. The bot will retrieve data from Excel using **excel activities**. The bot will access the website for policy cancellation using **open browser** from **UI Automation Activities**. Data in Excel will be input on the website using various activities from **UI Automation Activities** such as **click, check, type, get**, etc. The results of the policy cancellation process will be recorded into the policy cancellation data excel.
@@ -66,7 +66,7 @@ RPA bots to automate the process for canceling customer policies at an insurance
 
 [Journal](https://drive.google.com/drive/folders/1cYbpd9oaZZ6taVlCAc45Rp5rCD6evMKR?usp=drive_link)
 
-[image]
+![Job Filtering Bot](/assets/img/Job_Filtering_Bot_Flow.jpg)
 
 **Developed using UiPath and Python** 
 
