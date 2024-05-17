@@ -19,7 +19,7 @@ Bachelor of Telecommunication Engineering | GPA 3.41 / 4.00 | August 2018 - Sept
 
 **Developed using UiPath** 
 
-RPA bots untuk mengautomasi proses pembuatan beberapa dokumen kandidat seperti CV, candidate overview, dan offering letter. Bot akan mengambil data kandidat dari excel menggunakan **excel activities** ataupun dari spreadsheet menggunakan **google workspace**. Data kandidat kemudian akan diinput ke dalam template word document kemudian disimpan pada local komputer menggunakan berbagai activities dari **word activities**. Dokumen kemudian akan dikirim melalui email menggunakan **email activities**.
+RPA bots to automate the process of creating several candidate documents such as CV, candidate overview, and offering letter. The bot will get candidate data from Excel using **Excel Activities** or from a spreadsheet using **Google Workspace**. Candidate data will be input into a word document template and then saved into local folder using various activities from **word activities**. Documents are then sent to HR via email using **email activities**.
 
 <br>
 
@@ -29,7 +29,7 @@ RPA bots untuk mengautomasi proses pembuatan beberapa dokumen kandidat seperti C
 
 **Developed using UiPath** 
 
-RPA bots untuk mengautomasi proses pembuatan dokumen employee agreement. Bot akan membaca dan mengambil KTP kandidat dari email menggunakan beberapa activities dari **email activities**. Data pada KTP akan diextract menggunakan **OCR** yang tersedia pada UiPath. Hasil data extraction akan disimpan ke dalam excel menggunakan **excel activities** kemudian digunakan untuk membuat dokumen employee agreement pada word menggunakan **word activities**. Dokumen employee agreement kemudian akan dikirim kembali kepada kandidat menggunakan **email activities**.
+RPA bot to automate the process of creating employee agreement documents. The bot will read and get the candidate's KTP from email using several activities from **email activities**. The data on the KTP will be extracted using **OCR** ​​available on UiPath. The results of the data extraction will be saved into Excel using **Excel Activities** and then used to create an employee agreement document in Word using **Word Activities**. The employee agreement document will be sent to the candidate using **email activities**.
 
 <br>
 
@@ -39,7 +39,7 @@ RPA bots untuk mengautomasi proses pembuatan dokumen employee agreement. Bot aka
 
 **Developed using UiPath** 
 
-RPA bots untuk mengautomasi proses penginputan data pada aplikasi ESPT (aplikasi perpajakan). Bot akan mengambil data dari excel menggunakan **excel activities**. Untuk semua proses pada aplikasi ESPT menggunakan berbagai activities dari **UI Automation Activities** seperti **click, check, type, get** dan lain sebagainya.
+RPA bot to automate the process of inputting data into the ESPT application (tax application). The bot will get data from Excel using **excel activities**. For all processes in the ESPT application, various activities from **UI Automation Activities** are used, such as **click, check, type, get**, etc.
 
 <br>
 
@@ -49,7 +49,43 @@ RPA bots untuk mengautomasi proses penginputan data pada aplikasi ESPT (aplikasi
 
 **Developed using UiPath** 
 
-RPA bots untuk mengautomasi proses perhitungan ranking dari setiap artikel yang dimiliki oleh perusahaan. Untuk membuka mesin pencarian, bot menggunakan activities **open browser** dari **UI Automation Activities**. Untuk proses searching pada google menggunakan berbagai activities dari **UI Automation Activities** seperti **type** dan **click**. Bot kemudian akan menghitung ranking dari artikel tersebut menggunakan **loop**.
+RPA bots to automate the process of calculating the ranking of each article from the company. To open the search engine, the bot uses the activity **open browser** from **UI Automation Activities**. For the search process on Google, bot use various activities from **UI Automation Activities** such as **type** and **click**. The bot will calculate the ranking of the article using **loop**.
 
+<br>
 
+### Policy Cancellation Bot
 
+[image]
+
+**Developed using UiPath** 
+RPA bots to automate the process for canceling customer policies at an insurance company. The bot will retrieve data from Excel using **excel activities**. The bot will access the website for policy cancellation using **open browser** from **UI Automation Activities**. Data in Excel will be input on the website using various activities from **UI Automation Activities** such as **click, check, type, get**, etc. The results of the policy cancellation process will be recorded into the policy cancellation data excel.
+
+<br>
+
+### Job filtering on Jobstreet and Kalibrr Bot
+
+[image]
+
+**Developed using UiPath and Python** 
+
+RPA bot to automate the job filtering process on the job site using **RPA** and **Natural Language Processing (NLP)** technology. The user will input personal data, education, work experience and job that the user wants on the Google form, then the data will be saved in a spreadsheet. The data in the spreadsheet will be used to generate a CV using RPA. RPA will scrape every job vacancy in the job site to take the job description and save the data in Excel. The data in Excel will be processed and compared with the user's CV using NLP. The final result of this bot are CV documents of the user which have been combined with tables and explanations of 10 job vacancies that best match the CV of the user.
+
+<br>
+
+### e-Statement Bot
+
+[image]
+
+**Developed using Automation Anywhere (AA360)**
+
+RPA Bot to automate the data comparison process on e-Statements and core banking websites. To access the e-Statement website and core banking website, the bot use actions from the **browser package**. The PDF e-Statement from the website will be downloaded and converted into txt using the **extract text** action from the **pdf package**. The data in the e-Statement then compared with the data on the core banking website using **if logic** and **fuzzy match package**. The comparison results will be recorded in Excel using **Excel Advanced Package**.
+
+<br>
+
+### SKN RTGS Bot
+
+[image]
+
+**Developed using Automation Anywhere (AA360)**
+
+RPA Bot to automate processes about SKN RTGS. The robot will retrieve the list of email sender requestor on FTP using actions from the **FTP/SFTP Package**. The bot will access the email and then download attachments using various actions from the **email package**. Excel and txt files from emails will be put into a folder using the action from **folder package**. The contents of Excel will be moved to the Excel logbook using various actions from the **Excel Advanced Package**. The robot will access the SKN RTGS related website and input overbooking using actions from **browser package**. Next, the robot accesses the website related to SKN RTGS again to input SKN RTGS data and then the output from this process will be saved in the specified folder. The output will be sent back to the requestor via email.
