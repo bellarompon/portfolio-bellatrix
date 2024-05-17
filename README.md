@@ -64,7 +64,7 @@ RPA bots to automate the process for canceling customer policies at an insurance
 
 ### Job filtering on Jobstreet and Kalibrr Bot
 
-[Publication](https://drive.google.com/drive/folders/1cYbpd9oaZZ6taVlCAc45Rp5rCD6evMKR?usp=drive_link)
+[Journal](https://drive.google.com/drive/folders/1cYbpd9oaZZ6taVlCAc45Rp5rCD6evMKR?usp=drive_link)
 
 [image]
 
