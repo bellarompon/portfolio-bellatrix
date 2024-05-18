@@ -10,8 +10,7 @@ Bachelor of Telecommunication Engineering | GPA 3.41 / 4.00 | August 2018 - Sept
 ## Work Experience
 
 
-**RPA Developer (Dec 2022 - Jan 2024)**
-
+**RPA Developer (Dec 2022 - Jan 2024)** <br>
 PT. Bumi Amartha Teknologi Mandiri (Outsource at CIMB Niaga)
 - Developing RPA bots using Automation Anywhere.
 - Automate various business processes that using Excel, websites, email, PDF, and FTP.
