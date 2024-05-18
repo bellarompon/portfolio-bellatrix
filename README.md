@@ -21,8 +21,7 @@ Excel basic, Excel advanced, FTP/SFTP, log-to-file, and error handling.
 - Providing support and tuning in the production environment.
 - Troubleshooting issues in RPA bots and implementing enhancements.
 
-**RPA Developer Intern (Jan 2022 - Nov 2024)**
-
+**RPA Developer Intern (Jan 2022 - Nov 2024)**<br>
 PT. IDStar Cipta Teknologi
 - Developing RPA bots using UiPath.
 - Automate various business processes that using Excel, Word, websites, Google Spreadsheet, Google Drive, and
