@@ -16,7 +16,7 @@ PT. Bumi Amartha Teknologi Mandiri (Outsource at CIMB Niaga)
 - Developing RPA bots using Automation Anywhere.
 - Automate various business processes that using Excel, websites, email, PDF, and FTP.
 - Using Action to build RPA bots such as keystroke, open program/files, folder/files, loop, if/else, email, dictionary,
-- Excel basic, Excel advanced, FTP/SFTP, log-to-file, and error handling.
+Excel basic, Excel advanced, FTP/SFTP, log-to-file, and error handling.
 - Collaborating with Team Lead and Business Analyst to understand requirement and define system design.
 - Testing and validating RPA bots with Quality Assurance.
 - Providing support and tuning in the production environment.
