@@ -1,6 +1,6 @@
 # Bellatrix Sampe Rompon
 
-Bachelor Degree of Telecommunications Engineering with 2 years of experience in developing and implementing Robotic Process Automation (RPA). Experienced in creating RPA systems that used in banking, finance, insurance, and human resource fields. Can work together in a team, have good communication skills, and quickly learn new things.
+Bachelor Degree of Telecommunications Engineering with experience in developing and implementing Robotic Process Automation (RPA). Experienced in creating RPA systems that used in banking, finance, insurance, and human resource fields. Can work together in a team, have good communication skills, and quickly learn new things.
 
 ## Education
 **Telkom University**<br>
