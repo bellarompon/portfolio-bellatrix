@@ -1,36 +1,6 @@
 # Bellatrix Sampe Rompon
 
-Bachelor Degree of Telecommunications Engineering with experience in developing and implementing Robotic Process Automation (RPA). Experienced in creating RPA systems that used in banking, finance, insurance, and human resource fields. Can work together in a team, have good communication skills, and quickly learn new things.
-
-## Education
-**Telkom University**<br>
-Bachelor of Telecommunication Engineering | GPA 3.41 / 4.00 | August 2018 - September 2022
-
-## Work Experience
-
-
-**RPA Developer (Dec 2022 - Jan 2024)** <br>
-PT. Bumi Amartha Teknologi Mandiri (Outsource at CIMB Niaga)
-- Developing RPA bots using Automation Anywhere.
-- Automate various business processes that using Excel, websites, email, PDF, and FTP.
-- Using Action to build RPA bots such as keystroke, open program/files, folder/files, loop, if/else, email, dictionary,
-Excel basic, Excel advanced, FTP/SFTP, log-to-file, and error handling.
-- Collaborating with Team Lead and Business Analyst to understand requirement and define system design.
-- Testing and validating RPA bots with Quality Assurance.
-- Providing support and tuning in the production environment.
-- Troubleshooting issues in RPA bots and implementing enhancements.
-
-**RPA Developer Intern (Jan 2022 - Nov 2024)**<br>
-PT. IDStar Cipta Teknologi
-- Developing RPA bots using UiPath.
-- Automate various business processes that using Excel, Word, websites, Google Spreadsheet, Google Drive, and
-email.
-- Using Activities to build RPA bots such as keystroke, folder/files, loop, if/else, email, Excel Automation, Word
-Automation, Google workspace, OCR, and error handling.
-- Collaborating with Project Leader and Business Analyst to understand requirement and define system design.
-- Create user manual documents.
-- Testing and validating RPA bots with Quality Assurance.
-- Troubleshooting issues in RPA bots and implementing enhancements.
+IT Developer with experience in developing and implementing RPA bots in finance, banking, human resource, and insurance sectors. Have solid understanding in machine learning, artificial intelligence, and IoT. Expert in all phase of SDLC process from analysis, design, deployment, and maintenance. Have good problem solving, strong analytical skills, and can work in a team.
 
 ## RPA Projects
 
