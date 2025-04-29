@@ -10,6 +10,8 @@ IT Developer with experience in developing and implementing RPA bots in finance,
 
 <img align="left" src="./assets/img/Picture1.png">
 
+<br/>
+
 **Developed using UiPath**
 
 RPA bots to automate the process of creating several documents. Bot will read every row in excel/spreadsheet using **Excel Activities** or **Google Workspace**. If there is data that are not processed yet, bot will get the data and put it in variables. After that, bot will open the template document in word and insert the variables into document using **Word Activities**. The document then will be saved in local folder. That process will be repeated until all the data in excel/spreadsheet completed. 
@@ -25,7 +27,7 @@ RPA bots to automate the process of creating several documents. Bot will read ev
 ### Document Bots (Using OCR)
 
 
-<img align="left" src="/assets/img/Picture2.png">
+<img align="left" src="./assets/img/Picture2.png">
 
 <br/>
 
@@ -54,7 +56,7 @@ The bot will read all emails that has been sent on specified date. If bot got th
 
 ### Application Automation Bot (Tax Application)
 
-<img align="left" src="/assets/img/Picture3.png">
+<img align="left" src="./assets/img/Picture3.png">
 
 <br/>
 
@@ -72,7 +74,7 @@ RPA bot to automate the process of inputting data into the tax application. The 
 
 ### SEO Ranking Bot
 
-<img align="left" src="/assets/img/Picture4.png">
+<img align="left" src="./assets/img/Picture4.png">
 
 <br/>
 
@@ -93,7 +95,7 @@ RPA bots to automate the process of calculating the ranking of each article from
 
 ### Websites Automation Bot for Insurance Company
 
-<img align="left" src="/assets/img/Picture5.png">
+<img align="left" src="./assets/img/Picture5.png">
 
 <br/>
 
@@ -124,7 +126,7 @@ RPA bots to automate the process for canceling customer policies at an insurance
 
 ### Reporting Bot for Banking Company
 
-<img align="left" src="/assets/img/Picture6.png">
+<img align="left" src="./assets/img/Picture6.png">
 
 <br/>
 
@@ -147,7 +149,7 @@ RPA Bot to automate the data comparison process on e-Statements and core banking
 
 ### Settlement Process Bot for Banking Company
 
-<img align="left" src="/assets/img/Picture7.png">
+<img align="left" src="./assets/img/Picture7.png">
 
 <br/>
 
