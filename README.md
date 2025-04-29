@@ -8,7 +8,7 @@ IT Developer with experience in developing and implementing RPA bots in finance,
 ### Document Bots
 
 
-<img align="left" src="/assets/img/Picture1.png">
+<img align="left" height="350" src="/assets/img/Picture1.jpg">
 
 <br/>
 
