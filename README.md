@@ -8,8 +8,8 @@ IT Developer with experience in developing and implementing RPA bots in finance,
 ### Candidate Document Bots
 
 ![Candidate Document Bots](/assets/img/Candidate_Document_Bots_Flow.jpg)
-
-**Developed using UiPath** 
+<img align="left" width="100" height="100" src="/assets/img/Candidate_Document_Bots_Flow.jpg">
+#### Developed using UiPath
 
 RPA bots to automate the process of creating several candidate documents such as CV, candidate overview, and offering letter. The bot will get candidate data from Excel using **Excel Activities** or from a spreadsheet using **Google Workspace**. Candidate data will be input into a word document template and then saved into local folder using various activities from **word activities**. Documents are then sent to HR via email using **email activities**.
 
